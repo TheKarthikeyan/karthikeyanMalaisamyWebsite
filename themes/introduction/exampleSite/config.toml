@@ -8,7 +8,7 @@ canonifyurls            = true                              # Turns relative url
 # disqusshortname       = "xxx"                             # Enable Disqus for comments
 # googleAnalytics       = "xxx"
 
-[params]    
+[params]
     blogHead            = "Blog"                            # Full name shows on blog post pages
     firstName           = "Introduction"                    # First name shows in introduction on main page
     tagLine             = "I'm a theme for Hugo."           # Appears after the introduction
@@ -47,13 +47,13 @@ canonifyurls            = true                              # Turns relative url
 # Find icon names here: http://fontawesome.io/cheatsheet/
 
 [[params.social]]
-    url = "https://twitter.com/"
+    url = "https://twitter.com/TheKarthikeyan"
     icon = "twitter"
 
 [[params.social]]
-    url = "https://facebook.com/"
-    icon = "facebook"
+    url = "https://www.instagram.com/karthikeyanmalaisamy/"
+    icon = "instagram"
 
 [[params.social]]
-    url = "https://linkedin.com/"
+    url = "https://linkedin.com/in/karthikeyanmalaisamy"
     icon = "linkedin"
