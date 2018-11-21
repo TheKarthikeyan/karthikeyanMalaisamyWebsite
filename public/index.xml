@@ -6,10 +6,20 @@
     <description>Recent content on Karthikeyan Malaisamy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jun 2018 23:34:27 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 21 Nov 2018 20:23:44 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First Post</title>
+      <link>/blog/first-post/</link>
+      <pubDate>Wed, 21 Nov 2018 20:23:44 +0000</pubDate>
+      
+      <guid>/blog/first-post/</guid>
+      <description>I made this website before joining Indian Institute of Management Ahmedabad. It took me four months to settle down (pretence). There is an adrenaline aura to this institute that is keeping me hooked. I will share all about it and more.
+Stay tuned!</description>
+    </item>
     
     <item>
       <title>Bhumi</title>
@@ -44,35 +54,8 @@
       <pubDate>Sun, 27 May 2018 00:39:43 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>My name is Karthikeyan. I am an aspiring business leader currently pursuing MBA at Indian Institute of Management Ahmedabad . I also have a bachelor&amp;rsquo;s degree in computer science engineering from College of Engineering Guindy. I have worked in cloud infrastructure management at a SaaS startup for 2 years.
+      <description>My name is Karthikeyan. I am an aspiring product manager currently pursuing MBA at Indian Institute of Management Ahmedabad . I also have a bachelor&amp;rsquo;s degree in computer science engineering from College of Engineering Guindy. I managed cloud infrastructure for continuous integration and delivery at a SaaS startup for 2 years.
 I follow business, technology and political news and occasionally comment on the events. I am a quizzer, puzzle solver, Ex-National Cadet Corp and a fan of movies and music.</description>
-    </item>
-    
-    <item>
-      <title>Hipster Ipsum</title>
-      <link>/blog/hipster-ipsum/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
-      
-      <guid>/blog/hipster-ipsum/</guid>
-      <description>Occupy mlkshk kale chips woke, listicle locavore next level fingerstache glossier aesthetic man braid before they sold out kitsch prism. Cred copper mug freegan, flannel YOLO single-origin coffee skateboard artisan four loko church-key man bun. Synth literally gastropub, kombucha chillwave helvetica offal truffaut church-key freegan pop-up gentrify narwhal. Kombucha viral vexillologist green juice. Slow-carb hoodie mumblecore tumeric tattooed meditation, lo-fi fap cred affogato forage whatever austin. Shabby chic direct trade migas, brunch gochujang sriracha chambray fanny pack 8-bit mustache letterpress.</description>
-    </item>
-    
-    <item>
-      <title>Startup Ipsum</title>
-      <link>/blog/startup-ipsum/</link>
-      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
-      
-      <guid>/blog/startup-ipsum/</guid>
-      <description>SpaceTeam affordances quantitative vs. qualitative SpaceTeam physical computing earned media thinker-maker-doer pair programming. Bootstrapping pitch deck physical computing driven cortado human-centered design innovate human-centered design driven. Grok pitch deck fund pitch deck sticky note affordances minimum viable product integrate paradigm viral iterate. Driven fund thought leader personas workflow SpaceTeam viral pair programming physical computing intuitive 360 campaign latte bootstrapping minimum viable product. Bootstrapping physical computing responsive pitch deck SpaceTeam parallax long shadow pitch deck bootstrapping ideate.</description>
-    </item>
-    
-    <item>
-      <title>Coffee Ipsum</title>
-      <link>/blog/coffee-ipsum/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
-      
-      <guid>/blog/coffee-ipsum/</guid>
-      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong. Americano caffeine white, con panna saucer sit, con panna eu, carajillo aftertaste kopi-luwak, body aftertaste cup single origin café au lait saucer. Macchiato java sweet arabica, turkish cup, eu flavour mug extraction white cortado saucer est white brewed instant, rich, barista breve cappuccino barista organic.</description>
     </item>
     
   </channel>
