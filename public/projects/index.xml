@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Karthikeyan Malaisamy</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Karthikeyan Malaisamy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2018 23:34:27 +0530</lastBuildDate>
+    
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bhumi</title>
+      <link>/projects/bhumi_project/</link>
+      <pubDate>Fri, 01 Jun 2018 23:34:27 +0530</pubDate>
+      
+      <guid>/projects/bhumi_project/</guid>
+      <description>Teaching Volunteer at Bhumi during academic year 2017-2018.</description>
+    </item>
+    
+    <item>
+      <title>Quizzers Anonymous</title>
+      <link>/projects/qa_project/</link>
+      <pubDate>Fri, 01 Jun 2018 23:04:35 +0530</pubDate>
+      
+      <guid>/projects/qa_project/</guid>
+      <description>I founded Quizzers Anonymous, the official quiz club of College of Engineering Guindy. I served as it&amp;rsquo;s President during 2015-2016.</description>
+    </item>
+    
+  </channel>
+</rss>

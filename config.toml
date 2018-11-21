@@ -9,7 +9,7 @@ canonifyurls            = true                              # Turns relative url
 # googleAnalytics       = "xxx"
 
 [params]
-    blogHead            = "Blog"                            # Full name shows on blog post pages
+    blogHead            = "Karthikeyan's Blog"                            # Full name shows on blog post pages
     firstName           = "Karthikeyan"                    # First name shows in introduction on main page
     tagLine             = "Engineer, MBA Student"           # Appears after the introduction
     introHeight         = "large"                           # Input either 'medium' or 'large' or 'fullheight'
@@ -41,7 +41,7 @@ canonifyurls            = true                              # Turns relative url
     shareTwitter        = true
     shareFacebook       = true
     sharePinterest      = false
-    shareGooglePlus     = true
+    shareGooglePlus     = false
 
 # Social icons appear in introduction and contact section. Add as many more as you like.
 # Find icon names here: http://fontawesome.io/cheatsheet/
